@@ -2,6 +2,14 @@
 
 Tracking my  **2-month learning path** and project progress to simulate, secure, and test a virtual corporate network using industry tools and practices.
 
+### 📝 Description
+
+- This project simulates a small enterprise network in a virtual environment and applies real-world **network security principles** to protect it from common cyber threats. Over the course of 2 months, I plan to built a multi-VM lab using **VirtualBox**, configured essential services such as **web hosting, user authentication, and firewalling**, and implemented defenses including a **pfSense firewall** and **Snort/Suricata IDS**.
+
+- The project follows a structured learning path where I developed foundational skills in networking, system administration (Linux & Windows), ethical hacking, and system hardening. Using tools like **nmap**, **hydra**, and **Wireshark**, I simulated attacks and verified that my defenses could detect and block malicious activity.
+
+- It concludes with full documentation, a network diagram, and a final security report.
+
  Status of the learning path and project checked using:
 - ✅ = Complete
 - 🔄 = In Progress
