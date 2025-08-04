@@ -57,13 +57,13 @@ Tracking my  **2-month learning path** and project progress to simulate, secure,
 
 -  Install VirtualBox or VMware: ✅ Complete
     
--  Install Ubuntu Server ISO
+-  Install Ubuntu Server ISO: ✅ Complete
     
--  Install Windows 10 ISO
+-  Install Windows 10 ISO: ✅ Complete
     
--  Install Kali Linux ISO
+-  Install Kali Linux ISO: ✅ Complete
     
--  Install pfSense ISO
+-  Install pfSense ISO: ✅ Complete
     
 -  Create and connect VMs on an internal network
     
