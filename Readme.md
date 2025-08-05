@@ -18,18 +18,18 @@ Tracking my  **2-month learning path** and project progress to simulate, secure,
 
 ## 🧠 Learning Path Progress
 
-| Topic                                              | Status            |
+| Topic                                              | Status          |
 | -------------------------------------------------- | --------------- |
-| 📘 Networking Basics (IP, Subnetting, OSI, TCP/IP) | ✅ Comp            |
-| 🖥️ Virtualization (VirtualBox, VM Networking)     | 🔄 In Pr  gress   |
-| 🐧 Linux Basics (CLI, Networking, Users)           | ✅       ete       |
-| 🪟 Windows Basics (User Management, Firewall)      | ⏳ N    Started    |
-| 🌐 Web Servers (Apache/Nginx, HTTP, Web Forms)     | 🔄  In Progress   |
-| 🔐 Firewall Configuration (pfSense)                |    Not Started    |
-| 📦 IDS/IPS (Snort/Suricata Rules & Alerts)            ⏳ Not Started    |
-| 🧪 Ethical Hacking Tools (Nmap, Hydra, Wiresh       | ✅ Complete       |
-| 🧱 System Hardening (Linux & Windows Security)      | ⏳ Not Started    |
-| 📄 Report Writing & Documentat 🔄 In Progress       |  🔄 In Progress  |
+| 📘 Networking Basics (IP, Subnetting, OSI, TCP/IP) | ✅ Complete      |
+| 🖥️ Virtualization (VirtualBox, VM Networking)     | 🔄 In Pr  gress |
+| 🐧 Linux Basics (CLI, Networking, Users)           | ✅  complete     |
+| 🪟 Windows Basics (User Management, Firewall)      | ⏳ Not   Started |
+| 🌐 Web Servers (Apache/Nginx, HTTP, Web Forms)     | 🔄  In Progress |
+| 🔐 Firewall Configuration (pfSense)                | Not Started     |
+| 📦 IDS/IPS (Snort/Suricata Rules & Alerts)         | 🔄  In Progress |
+| 🧪 Ethical Hacking Tools (Nmap, Hydra, Wiresh      | ✅ Complete      |
+| 🧱 System Hardening (Linux & Windows Security)     | ⏳ Not Started   |
+| 📄 Report Writing & Documentat 🔄 In Progress      | 🔄 In Progress  |
 
 ---
 
