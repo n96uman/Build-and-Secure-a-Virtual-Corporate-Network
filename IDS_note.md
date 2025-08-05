@@ -31,3 +31,9 @@
 - snort start at 1998 and continuously improved
 1. snort 2.x - De facto version of snort.
 2. snort 3.0 - latest version of snort that features improved.
+## Rules
+- community rules - free rules created by the community
+- Registered rules - free rules created by Talos. must register
+- subscription only rules -  active paid.
+![[Pasted image 20250805212817.png]]
+![[Pasted image 20250805212932.png]]
