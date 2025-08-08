@@ -36,4 +36,4 @@
 - Registered rules - free rules created by Talos. must register
 - subscription only rules -  active paid.
 ![[Pasted image 20250805212817.png]]
-![[Pasted image 20250805212932.png]]
+![[Pasted image 20250808172117.png]]

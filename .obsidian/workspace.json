@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "799682c1651dc514",
@@ -186,6 +185,7 @@
   },
   "active": "fdda7ff3d6d3b739",
   "lastOpenFiles": [
+    "Pasted image 20250808172117.png",
     "Pasted image 20250805212932.png",
     "Pasted image 20250805212817.png",
     "Readme.md",
